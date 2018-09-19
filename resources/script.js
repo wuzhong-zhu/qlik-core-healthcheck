@@ -70,7 +70,7 @@ function run(){
                 update();
               })
           }
-          listDocs(apps)
+          // listDocs(apps)
 
           qix.createApp({qAppName:"core-healtCheck-tempapp"}).then(app=>{
             console.log("create")
