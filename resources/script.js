@@ -91,6 +91,7 @@ function run(){
           })
         })
   })
+  update()
 }
 
 function update(){
